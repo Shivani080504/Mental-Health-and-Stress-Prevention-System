@@ -1,0 +1,8 @@
+Age,Gender,Sleep_Duration_Hours,Physical_Activity_Min_Per_Day,Heart_Rate,Screen_Time_Hours,Caffeine_Intake_Per_Day,Alcohol_Intake_Per_Week,Mood_Level_Scale_1_10,Anxiety_Level_Scale_1_10,Stress_Score,Risk_Flag
+18,Female,6.0,2,88,6.0,1,2,7,5,90,🔴 Red (Needs Attention)
+15,Female,5.0,6,88,4.0,5,1,8,5,30,🟢 Green (Normal)
+18,Female,8.0,3,88,5.0,4,0,9,0,30,🟢 Green (Normal)
+18,Female,5.0,2,88,2.0,1,1,8,5,90,🔴 Red (Needs Attention)
+18,Female,5.0,2,88,2.0,1,1,8,5,90,🔴 Red (Needs Attention)
+18,Female,5.0,2,88,2.0,1,1,8,5,90,🔴 Red (Needs Attention)
+18,Female,5.0,6,2,5.0,8,2,6,2,90,🔴 Red (Needs Attention)

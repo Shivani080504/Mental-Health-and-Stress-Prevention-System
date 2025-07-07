@@ -1,0 +1,17 @@
+🧠 Mental Health Stress Report
+========================================
+Age: 18
+Gender: Female
+Heart Rate: 2 bpm
+Sleep Duration: 5.0 hrs
+Physical Activity: 6 min/day
+Screen Time: 5.0 hrs/day
+Caffeine Intake: 8 drinks/day
+Alcohol Intake: 2 drinks/week
+Mood Level: 6/10
+Anxiety Level: 2/10
+
+🧩 Predicted Stress Score: 90/100
+🚩 Risk Level: 🔴 Red (Needs Attention)
+📝 Recommendation: Consider therapy or stress management exercises.
+========================================
