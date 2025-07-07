@@ -2,16 +2,16 @@
 ========================================
 Age: 18
 Gender: Female
-Heart Rate: 2 bpm
+Heart Rate: 65 bpm
 Sleep Duration: 5.0 hrs
-Physical Activity: 6 min/day
-Screen Time: 5.0 hrs/day
-Caffeine Intake: 8 drinks/day
-Alcohol Intake: 2 drinks/week
-Mood Level: 6/10
-Anxiety Level: 2/10
+Physical Activity: 2 min/day
+Screen Time: 55.0 hrs/day
+Caffeine Intake: 85 drinks/day
+Alcohol Intake: 14 drinks/week
+Mood Level: 5/10
+Anxiety Level: 53/10
 
-🧩 Predicted Stress Score: 90/100
-🚩 Risk Level: 🔴 Red (Needs Attention)
-📝 Recommendation: Consider therapy or stress management exercises.
+🧩 Predicted Stress Score: 30/100
+🚩 Risk Level: 🟢 Green (Normal)
+📝 Recommendation: Maintain your routine. Great job!
 ========================================
